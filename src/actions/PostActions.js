@@ -1,7 +1,3 @@
-/**
- * Created by Sandeep on 28/06/15.
- */
-
 var alt = require('../alt');
 var request = require('superagent');
 var config = require('../../config');

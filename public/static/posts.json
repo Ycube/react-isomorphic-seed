@@ -1,32 +1,32 @@
 [
   {
     "id" : 1,
-    "slug" : "10-reasons-you-should-use-react-in-your-next-app",
-    "title" : "10 reasons to use React in your next project",
-    "description" : "React, developed by Facebook, is an open source library for building User Interfaces. As the front end world moves too fast you should not be hesitant to try out new things. I am a big fan of AngularJS and a few months back I started trying React. As React doesn't assume anything about rest of your tech stack it plays well with others. The biggest reason for me to try React was to create isomorphic apps that render on both client and server (with a little help from other libraries as well). In this article I am going to share 10 best reasons to use React in your next project.",
+    "slug" : "Thesis-Day-1",
+    "title" : "Thesis Day 1 - Intro to Senior Thesis at MakerSquare",
+    "description" : "Hello World, I am currently a student at MakerSquare in San Francisco, CA. Primarly MakerSquare is a software engineering advanced immersive program. It was recommended for us to write a blog posts as a student to have an online presence and make ourselves marketable to employers. When I first researched about coding bootcamps, there was many blogs and opinions on the interview process, discussion about differences, or the first few weeks. Since there is a lack of blog presence in regards to the senior portion I decided to start blogging now. Today we are forming groups for our thesis projects at MKS. My group consists of Audrey, Elliot, and Joe. One of the most difficult tasks about the projects was coming up with an idea. It seems like many things are either a hybrid variation of different sites or they have already been done. When coming up with an idea, I would emphasize do not stress about a specific idea and just pick something your group would mostly be happy to work on. By the end of the day, we came up with a few different ideas but didn't decide on any particular one.",
     "author" : {
-      "photo" : "/images/sandeep.png",
-      "name" : "Sandeep"
+      "photo" : "/images/ycube.jpg",
+      "date" : "January 12th 2016"
     }
   },
   {
     "id" : 2,
-    "slug" : "creating-a-super-simple-todo-app-using-angular-2—tutorial",
-    "title" : "Creating a Super Simple Todo app Using Angular 2 — Tutorial",
-    "description" : "Angular 2 is already popular and so many JavaScript developers are eagerly waiting to try it out. You may have the idea that Angular 2 is going to introduce a lot of new & exciting features and remove several old concepts. So, in this tutorial I will show you how to create a super simple Todo app using Angular 2.0. In the process you will also learn how to use Components, Templates, Data Binding and a few other important stuff. So, let's start!",
+    "slug" : "Learning-NEO4J",
+    "title" : "Thesis Day 4 - Scratching the surface of Neo4J ",
+    "description" : "Today I will be learning NEO4J. I have also been tasked with managing Github Issues and tracking it. We are using Github issues because it follows an neatly documented open source style similar to Angular/React style of a contribution guide. After the usual morning standup with my group, I started learning NEO4J directly from their website tutorial. It is interactive and offers a nice range of examples and allows you to practice directly in their browser. As I learn new library, framework or technomolgy, I like to compare and contrast the similiarties and differences between something I already know about and mySQL is the best comparison to Neo4j. I can begin to see how social networks and those 'suggested' friends can be Cyphered. Cypher is the equivalent to the search query for SQL. From a big picture perspective, mySQL is similar to a single excel chart with mini excel charts inside that link to one another by IDs and foriegn keys. Graph databases like Neo4j is equivalent to one giant table, where each invidual nodes link to one another by relations(edges). I can already begin to see how the database model will look for our web application.",
     "author" : {
-      "photo" : "/images/syed.jpg",
-      "name" : "Syed"
+      "photo" : "/images/ycube.jpg",
+      "date" : "January 15, 2016"
     }
   },
   {
     "id" : 3,
-    "slug" : "understanding-foundation-5-grid-system-tutorial",
-    "title" : "Understanding Foundation 5 Grid System — Tutorial",
+    "slug" : "Learning-NEO4J",
+    "title" : "Learning NEO4J",
     "description" : "A grid system is used to place the website's elements in proper locations and control the overall structure of the website. It is a virtual structure of rows and columns, which when intersect, create rectangular containers for placing other elements.",
     "author" : {
-      "photo" : "/images/sandeep.png",
-      "name" : "Sandeep"
+      "photo" : "/images/ycube.jpg",
+      "date" : "Yale"
     }
   },
   {
@@ -35,8 +35,8 @@
     "title" : "Creating a social news sharing app in 20 minutes with Meteor",
     "description" : "Meteor 1.0 is already out and everybody is talking about its reactiveness. In this article I will show you how to create a basic social news sharing app (in other words a Hacker News clone) in just 20 minutes with Meteor. Obviously, the end product won't be as feature rich as Hacker News. But it will be simple and easy to extend. The source code is available on GitHub.",
     "author" : {
-      "photo" : "/images/syed.jpg",
-      "name" : "Syed"
+      "photo" : "/images/ycube.jpg",
+      "date" : "Syed"
     }
   },
   {
@@ -45,8 +45,8 @@
     "title" : "Introduction to JavaScript Immutability with Immutable.js",
     "description" : "Immutable.js is a JavaScript library by Facebook that lets you work with persistent immutable data collections. Immutability means once a collection is created, it can't be changed (mutated). With Immutable.js, operations like push, unshift, set etc will return new immutable collections instead of changing the original collection. So, let's see why immutability is useful and explore how Immutable.js lets you write immutable code.",
     "author" : {
-      "photo" : "/images/sandeep.png",
-      "name" : "Sandeep"
+      "photo" : "/images/ycube.jpg",
+      "date" : "Sandeep"
     }
   }
 ]

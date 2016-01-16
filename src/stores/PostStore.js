@@ -1,6 +1,3 @@
-/**
- * Created by Sandeep on 28/04/15.
- */
 var alt = require('../alt');
 var PostActions = require('../actions/PostActions');
 
@@ -12,8 +9,8 @@ class PostStore{
             updatePosts:  PostActions.UPDATE_POSTS
         });
         this.on('init', function(){
-            self.posts = [];
-            self.currentPost = null;
+            self.posts = []; //holds an array of posts to display on the home page
+            self.currentPost = null; //holds a single post instance
         });
     }
 

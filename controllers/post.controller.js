@@ -1,7 +1,3 @@
-/**
- * Created by Sandeep on 28/06/15.
- */
-
 var request = require('superagent'),
     config = require('../config');
 

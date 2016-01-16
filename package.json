@@ -1,9 +1,9 @@
 {
-  "name": "React-Isomorphic-Seed",
+  "name": "YCube Blogs",
   "version": "1.0.0",
-  "description": "React Isomorphic Seed",
+  "description": "Blog posts for yale y yuen",
   "main": "bin/www",
-  "author": "Sandeep Panda <sandeep@devmag.io>",
+  "author": "Yale Y. Yuen <yaleyyuen@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "alt": "^0.14.5",
